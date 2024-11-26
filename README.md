@@ -1,5 +1,5 @@
 # Hello, World! 🌍  
-I’m **Kyrylo Semenchenko**, a **Computer Engineering student** eager to explore new horizons. While my expertise lies in **low-level systems programming**, **data analysis**, and **algorithm optimization**, I’m open to opportunities beyond my field of study. I thrive on tackling challenges, learning new skills, and making meaningful contributions in any domain.  
+I’m **Kyrylo Semenchenko**, a 3rd year **Computer Engineering student** at WUST eager to explore new horizons. While my expertise lies in **low-level systems programming**, **data analysis**, and **algorithm optimization**, I’m open to opportunities beyond my field of study. I thrive on tackling challenges, learning new skills, and making meaningful contributions in any domain.  
 
 ---
 
